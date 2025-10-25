@@ -17,4 +17,4 @@ Advanced mathematical calculator with 7 powerful tools built with Python.
 
 ## Installation
 
-### Linux/Mac
+### Linux,mac and windows
